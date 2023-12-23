@@ -15,7 +15,25 @@
     color: red;
     margin-top: 200px;
 }
+.name:hover {
+    color: rgb(251, 255, 20);
+    font-size: 60px;
+
+}
+
 .disignation {
-    color: rgb(255, 0, 212);
+    color: rgb(7, 247, 255);
     font-weight: 700;
+    padding-top: 10px;
+}
+.disignation:hover {
+    color: rgb(0, 255, 128);
+    font-size: 20px;
+}
+.contry {
+    color: rgb(255, 255, 0);
+    font-weight: 700;
+    padding-top: 10px;
+}.contry:hover {
+    color: rgb(215, 0, 243);
 }
