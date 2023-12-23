@@ -38,8 +38,13 @@
     color: rgb(215, 0, 243);
 }
 .header {
-    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-weight: 700;
-    font-size: 100px;
-    
+    font-size: 80px;
+    height: 300px;
+    color: blue;
+    background-color: antiquewhite;
+
 }
