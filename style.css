@@ -37,3 +37,9 @@
 }.contry:hover {
     color: rgb(215, 0, 243);
 }
+.header {
+    color: blue;
+    font-weight: 700;
+    font-size: 100px;
+    
+}
