@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    height: 800px;
+    background-image: url(./sharif_2.jpg);
+    background-size: cover;
+    padding: 6rem;
+}
+.name {
+    font-weight: 700;
+    font-size: 3rem;
+    color: red;
+    margin-top: 200px;
+}
+.disignation {
+    color: rgb(255, 0, 212);
+    font-weight: 700;
+}
